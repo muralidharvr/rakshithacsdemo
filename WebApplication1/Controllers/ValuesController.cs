@@ -13,7 +13,7 @@ namespace WebApplication1.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Winter", "Autumn", "Summer" };
+            return new string[] { "Winter", "Autumn", "Summer", "spring" };
         }
 
         // GET api/values/5
