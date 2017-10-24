@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RakshithACSDemo", "WebApplication1\RakshithACSDemo.csproj", "{8769E5A1-F4BC-4EF9-87E5-5BA5D5262E2F}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C5E30545-57B4-4E1C-9551-7B042950E89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8769E5A1-F4BC-4EF9-87E5-5BA5D5262E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8769E5A1-F4BC-4EF9-87E5-5BA5D5262E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8769E5A1-F4BC-4EF9-87E5-5BA5D5262E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8769E5A1-F4BC-4EF9-87E5-5BA5D5262E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E30545-57B4-4E1C-9551-7B042950E89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E30545-57B4-4E1C-9551-7B042950E89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E30545-57B4-4E1C-9551-7B042950E89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E30545-57B4-4E1C-9551-7B042950E89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089953FA-9132-4D13-A7A3-E2765F8D307F}
+	EndGlobalSection
+EndGlobal

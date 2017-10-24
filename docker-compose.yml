@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  rakshithacsdemo:
+    image: rakshithacsdemo
+    build:
+      context: ./WebApplication1
+      dockerfile: Dockerfile
